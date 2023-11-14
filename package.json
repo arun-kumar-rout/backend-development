@@ -1,0 +1,24 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "learn what matters in backend learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-kumar-rout/backend-development.git"
+  },
+  "keywords": [
+    "backend",
+    "backend",
+    "development"
+  ],
+  "author": "Arun Kumar Rout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-kumar-rout/backend-development/issues"
+  },
+  "homepage": "https://github.com/arun-kumar-rout/backend-development#readme"
+}
